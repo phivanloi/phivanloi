@@ -7,3 +7,4 @@
 - 📫 Mình có một trang web riêng tại <https://philoi.vn>
 - 😄 Mình khá open cho các buổi nói chuyện, trao đổi về công nghệ
 - ⚡ Ngoài luồng công nghệ thì mình có sở thích đầu tư chứng khoán, phái sinh và tiền điện tử
+- 🍭 Mình thích xây dựng các ứng dụng liên quan đến giao dịch tài chính
