@@ -15,24 +15,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phivanloi&bg_color=0a0f0d&color=c9d1d9&line=00ff7b&point=00ff7b&area=true&hide_border=true" />
 </p>
-## 🧱 Project Highlights / Featured Work
-
-> *Mình để sẵn khung “ngầu”, bạn thay bằng repo thật của bạn nhé.*
-
-### ✅ Dự án 1 — **Trading Engine / Order Router**
-
-- 🎯 Mục tiêu: xử lý lệnh nhanh, chuẩn, có thể scale  
-- 🧩 Kỹ thuật: event-driven, idempotency, retry, outbox/inbox  
-- 🔗 Repo: `https://github.com/phivanloi/<ten-repo-1>`
-
-### ✅ Dự án 2 — **Microservices Starter Kit (.NET)**
-
-- 🎯 Mục tiêu: khởi tạo dự án nhanh nhưng không “bừa”  
-- 🧩 Kỹ thuật: clean architecture, health checks, tracing, CI/CD  
-- 🔗 Repo: `https://github.com/phivanloi/<ten-repo-2>`
-
-### ✅ Dự án 3 — **Infra/Firewall Cookbook (On‑prem)**
-
-- 🎯 Mục tiêu: checklist triển khai on‑prem an toàn, dễ vận hành  
-- 🧩 Kỹ thuật: network design, backup/restore, monitoring  
-- 🔗 Repo: `https://github.com/phivanloi/<ten-repo-3>`
